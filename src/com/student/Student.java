@@ -1,4 +1,4 @@
-package sss.com;
+package com.student;
 import java.util.Scanner;
 
 public class Student {
